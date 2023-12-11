@@ -1,0 +1,187 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.frame .div {
+    background-color: #ffffff;
+    width: 1428px;
+    height: 3202px;
+    position: relative;
+}
+
+.frame .text-wrapper {
+    position: absolute;
+    top: 41px;
+    left: 557px;
+    font-family: "Abhaya Libre Medium-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48.8px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.frame .div-2 {
+    position: absolute;
+    width: 1212px;
+    height: 315px;
+    top: 130px;
+    left: 76px;
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.IWeBf9FcqyerUjHH5eEeWwHaEK&pid=Api&P=0&h=180);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.frame .p {
+    position: absolute;
+    top: 475px;
+    left: 76px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 27.1px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .overlap-group {
+    position: absolute;
+    width: 1304px;
+    height: 165px;
+    top: 517px;
+    left: 34px;
+}
+
+.frame .text-wrapper-2 {
+    position: absolute;
+    top: 0;
+    left: 42px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27.1px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .one-of-the-best-ways {
+    position: absolute;
+    width: 1304px;
+    top: 33px;
+    left: 0;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27.1px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .span {
+    font-family: "Inter-LightItalic", Helvetica;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.frame .text-wrapper-3 {
+    font-weight: 300;
+}
+
+.frame .text {
+    position: absolute;
+    top: 593px;
+    left: 30px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 27.1px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .build-online-store {
+    position: absolute;
+    top: 893px;
+    left: 45px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27.1px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27.1px;
+    letter-spacing: 0;
+}
+
+.frame .text-wrapper-5 {
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+}
+
+.frame .text-wrapper-6 {
+    position: absolute;
+    top: 690px;
+    left: 75px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27.1px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .one-mistake-that {
+    position: absolute;
+    top: 740px;
+    left: 30px;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 28.4px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .strategies-of-d {
+    position: absolute;
+    top: 1430px;
+    left: 45px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 26.5px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .text-wrapper-7 {
+    font-weight: 500;
+}
+
+.frame .text-wrapper-8 {
+    font-family: "Inter-Regular", Helvetica;
+}
+
+.frame .startup-cost-and {
+    position: absolute;
+    width: 1255px;
+    top: 2175px;
+    left: 45px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 26.5px;
+    letter-spacing: 0;
+    line-height: normal;
+}

@@ -1,0 +1,169 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.frame .div {
+    background-color: #ffffff;
+    width: 1006px;
+    height: 802px;
+    position: relative;
+}
+
+.frame .ellipse {
+    position: absolute;
+    width: 70px;
+    height: 66px;
+    top: 13px;
+    left: 24px;
+    object-fit: cover;
+}
+
+.frame .text-wrapper {
+    position: absolute;
+    top: 24px;
+    left: 397px;
+    font-family: "IM FELL English-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32.3px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.frame .div-2 {
+    height: 336px;
+    top: 101px;
+    background-color: #ebe5e5;
+    position: absolute;
+    width: 888px;
+    left: 60px;
+}
+
+.frame .rectangle {
+    position: absolute;
+    width: 221px;
+    height: 299px;
+    top: 18px;
+    left: 47px;
+}
+
+.frame .text-wrapper-2 {
+    position: absolute;
+    top: 68px;
+    left: 503px;
+    font-family: "Iceberg-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16.2px;
+    letter-spacing: 1.62px;
+    line-height: normal;
+}
+
+.frame .WHOEVER-SAID-THAT {
+    position: absolute;
+    top: 167px;
+    left: 410px;
+    font-family: "Jacques Francois Shadow-Regular", Helvetica;
+    font-weight: 400;
+    color: #220c0c;
+    font-size: 15.2px;
+    letter-spacing: 1.52px;
+    line-height: normal;
+}
+
+.frame .p {
+    position: absolute;
+    top: 112px;
+    left: 467px;
+    font-family: "IBM Plex Sans Hebrew-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 18.5px;
+    letter-spacing: 1.85px;
+    line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+    position: absolute;
+    top: 67px;
+    left: 187px;
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16.1px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.frame .text-wrapper-4 {
+    position: absolute;
+    top: 69px;
+    left: 324px;
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16.1px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.frame .text-wrapper-5 {
+    position: absolute;
+    top: 69px;
+    left: 471px;
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16.1px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.frame .text-wrapper-6 {
+    position: absolute;
+    top: 69px;
+    left: 637px;
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16.1px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.frame .text-wrapper-7 {
+    position: absolute;
+    top: 69px;
+    left: 751px;
+    font-family: "Abhaya Libre-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16.1px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.frame .f-wrapper {
+    height: 276px;
+    top: 459px;
+    position: absolute;
+    width: 888px;
+    left: 60px;
+}
+
+.frame .f {
+    position: absolute;
+    width: 874px;
+    height: 252px;
+    top: 0;
+    left: 14px;
+}
